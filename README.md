@@ -21,13 +21,15 @@ A beginner-friendly command-line Python project to manage a library. Users can a
 1. Make sure you have Python 3 installed.
 2. Clone the repository:
 
-   ```bash
-   git clone https://github.com/himanshu0154/library-management-system.git
-   cd library-management-system
+```bash
+git clone https://github.com/himanshu0154/library-management-system.git
+cd library-management-system
+```
 
 3. Run the program:
-    ```
-    python main.py
+```bash
+python main.py
+```
 
 # Example Menu
 
