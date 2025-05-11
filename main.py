@@ -124,10 +124,10 @@ def libraryExecution():
             else:
                 print("please choose from above options...")
         except ValueError:
-            print("please give valid response...")
+            print("please give a integer value...")
         except IndexError:
-            print("please give valid response...")
+            print("please select available index...")
         except KeyError:
-            print("please give valid response")
+            print("please select available index")
 
 libraryExecution()
